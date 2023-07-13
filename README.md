@@ -2,6 +2,8 @@
 
 These Jupyter notebooks demonstrate the data integration of EPA and Purple air sensor data and plume simulation results, using the Gaussian Process regression, for mapping the air quality index over space. 
 
+It requires purpleair_chicago.txt in the Google Drive root directory.
+
 1. [Define the grid and domain for spatial estimation](https://colab.research.google.com/drive/16wAbVfjq0C5IVNNnPQAzOPxHDMFUen-I#scrollTo=JNnxyufi4dYZ)
 3. [Download EPA air quality data](https://colab.research.google.com/drive/1EFb5uq7qPmVVqnoOleWOhnmCx5qh2sef#scrollTo=syw-yRQTfCTA)
 4. [Download Purple air quality data](https://colab.research.google.com/drive/1TrU84Ihoo-qeyRDWnmxCji021k5Iu1Ij#scrollTo=XJdnKwwA3Vn7)
