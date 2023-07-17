@@ -2,6 +2,11 @@
 
 These Jupyter notebooks demonstrate the data integration of EPA and Purple air sensor data and plume simulation results, using the Gaussian Process regression, for interpolating and mapping the air quality index over space. 
 
+Contributors:
+- Haruko Wainwright @ MIT
+- Pierre-Louis Sazerat @ National Institute of Nuclear Science and Technology, France
+- Allan Gallenoncourt @ National Institute of Nuclear Science and Technology, France
+
 Note: 
 - You have to have purpleair_chicago.txt in the Google Drive root directory.
 - The same functions appear in multiple notebooks. These notebooks are for the demonstration/teaching purpose. 
