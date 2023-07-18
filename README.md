@@ -1,6 +1,6 @@
 # GP4AQ
 
-These Jupyter notebooks demonstrate the data integration of EPA and Purple air sensor data and plume simulation results, using the Gaussian Process regression, for interpolating and mapping the air quality index over space. 
+These Jupyter notebooks demonstrate the data integration of EPA and Purple air sensor data and plume simulation results, using the Gaussian Process regression, for interpolating and mapping the air quality index over space. The tutorial slides are [here](https://github.com/hmwainw/GP4AQ/blob/main/20230717Chicago_tutorial_v2.pdf).
 
 Contributors:
 - Haruko Wainwright @ MIT
